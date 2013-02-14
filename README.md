@@ -20,7 +20,7 @@ addition to the rods and cones, the eye has a
 [third type of photoreceptor](http://www.nature.com/news/2011/110119/full/469284a.html
 "Vision sciene: Seeing without seeing") [2].  Among other things,
 these cells send the brain signals about when to sleep and when to
-wake up.  They respond to blue light; the bright blue from the sky
+wake up.  They respond to blue light, the bright blue from the sky
 that surrounds us outdoors on a sunny day.  They take "rise and shine"
 literally: the sun is up, the sky is blue, so wake up!
 
@@ -30,7 +30,7 @@ especially in the absence of other light, can
 (Be especially careful if you have had cataract surgery.)  At the
 wrong time of day, it will mess up your
 [circadian rhythm](http://abclocal.go.com/ktrk/story?section=news/health&id=8779461)
-[4] (body clock).  And if you have a tendency to migraine headaches,
+(body clock) [4].  And if you have a tendency to migraine headaches,
 you
 [might not want to use this light](http://news.sciencemag.org/sciencenow/2010/01/11-01.html?etoc
 "Why light makes migraines worse") [5] at all.  If in doubt, consult
