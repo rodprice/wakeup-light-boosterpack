@@ -1,5 +1,9 @@
 # Object files
 *.o
+*.elf
+*.hex
+*.lss
+*.map
 
 # Libraries
 *.lib
